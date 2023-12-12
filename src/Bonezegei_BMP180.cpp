@@ -1,3 +1,7 @@
+/*
+  This Library is written for BMP180
+  Author: Bonezegei (Jofel Batutay)
+*/
 
 #include "Bonezegei_BMP180.h"
 
